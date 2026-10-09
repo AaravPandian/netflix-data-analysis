@@ -1,2 +1,0 @@
-# Netflix Data Analysis
-
