@@ -1,2 +1,2 @@
-# Data-Analytics-Projects
-My Data Analytics Projects
+# Netflix Data Analysis
+
